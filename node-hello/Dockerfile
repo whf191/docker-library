@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/node-hello:1.0
