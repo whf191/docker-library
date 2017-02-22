@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/node-hello:1.0
+FROM gcr.io/google_samples/node-hello:1.0
